@@ -3,6 +3,7 @@
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </div>
+  <a-button>按钮</a-button>
   <router-view/>
 </template>
 
